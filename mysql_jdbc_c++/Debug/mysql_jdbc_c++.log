@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\zhaojianli\source\repos\mysql_jdbc_c++\mysql_jdbc_c++\main.cpp(126,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaojianli\source\repos\mysql_jdbc_c++\mysql_jdbc_c++\main.cpp(130,11): warning C4018: “<”: 有符号/无符号不匹配
+  mysql_jdbc_c++.vcxproj -> C:\Users\zhaojianli\source\repos\mysql_jdbc_c++\Debug\mysql_jdbc_c++.exe
